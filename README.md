@@ -11,4 +11,4 @@ I’m passionate about exploring how Agentic AI and middleware intelligence can 
 -  Portfolio Projects:
   - [Procurement Copilot Middleware](https://github.com/yourusername/ProcurementCopilot)
   - [Agentic AI for ERP Automation](https://github.com/yourusername/AgenticAI-Middleware)
--  Reach me: [LinkedIn](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/kayalvizhi-anbazhagan-862991114/) | [Email](mailto:kayalbe7@gmail.com)
+-  Reach me: [LinkedIn](https://www.linkedin.com/in/kayalvizhi-anbazhagan-862991114/) | [Email](mailto:kayalbe7@gmail.com)
