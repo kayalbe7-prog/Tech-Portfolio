@@ -1,7 +1,7 @@
-- 🔭 Currently building: *AI Middleware Engine for ERP Automation* using .NET 8, Azure.AI.OpenAI, and Agentic Patterns.
-- 🧠 Skilled in: .NET Core | Microservices | gRPC | D365 Integration | Generative AI | Prompt Engineering
-- ⚙ Focused on: Bringing real-time business intelligence through AI-driven middleware.
-- 🌐 Portfolio Projects:
+-  Currently building: *AI Middleware Engine for ERP Automation* using .NET 8, Azure.AI.OpenAI, and Agentic Patterns.
+-  Skilled in: .NET Core | Microservices | gRPC | D365 Integration | Generative AI | Prompt Engineering
+-  Focused on: Bringing real-time business intelligence through AI-driven middleware.
+-  Portfolio Projects:
   - [Procurement Copilot Middleware](https://github.com/yourusername/ProcurementCopilot)
   - [Agentic AI for ERP Automation](https://github.com/yourusername/AgenticAI-Middleware)
-- 📫 Reach me: [LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:kayalbe7@gmail.com)
+-  Reach me: [LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:kayalbe7@gmail.com)
