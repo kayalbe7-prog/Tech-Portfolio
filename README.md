@@ -4,4 +4,4 @@
 - 🌐 Portfolio Projects:
   - [Procurement Copilot Middleware](https://github.com/yourusername/ProcurementCopilot)
   - [Agentic AI for ERP Automation](https://github.com/yourusername/AgenticAI-Middleware)
-- 📫 Reach me: [LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:youremail@domain.com)
+- 📫 Reach me: [LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:kayalbe7@gmail.com)
