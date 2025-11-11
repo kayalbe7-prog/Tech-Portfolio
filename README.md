@@ -1,7 +1,7 @@
 I’m Kayal, a Technical Specialist who loves transforming complex business challenges into intelligent, automated solutions.
 My current focus is on building Agentic AI-driven solutions — systems that can reason, adapt, and automate decisions across diverse enterprise platforms.
 
-With hands-on expertise in .NET 8, Azure OpenAI, and microservice architectures, I design and develop solutions that connect data, applications, and intelligence seamlessly.
+With hands-on expertise in .NET 8, Azure OpenAI, and microservice architectures, I craft solutions from concept to deployment - covering architecture, development and intelligent workflow design that connect data, applications, and intelligence seamlessly.
 Whether it’s automating workflows, enhancing decision-making, or integrating AI across ERP, CRM, or custom systems, I believe in creating software that truly thinks with purpose.
 
 I’m passionate about exploring how Agentic AI and middleware intelligence can redefine enterprise automation — one system at a time.
